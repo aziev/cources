@@ -1,0 +1,46 @@
+body {
+	font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	width: 700px;
+}
+
+.headline {
+	font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+	font-size: 40px;
+	font-weight: 400;
+}
+
+.headline2 {
+	font-size: 34px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif;
+	letter-spacing: -0.022em;
+	font-weight: 600;
+}
+
+p {
+	font-size: 21px;
+	line-height: 1.58;
+	margin: 16px 0; /* Внешние отступы элемента. */
+	/*margin-top: ;
+	margin-right: ;
+	margin-bottom: ;
+	margin-left: ;*/
+}
+
+.highlighted {
+	background-color: rgba(12, 242, 143, 0.2);
+}
+
+.underlined {
+	text-decoration: underline;
+}
+
+li {
+    font-size: 21px;
+    line-height: 1.58;
+    margin-bottom: 22px;
+}
